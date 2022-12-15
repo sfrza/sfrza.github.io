@@ -8,9 +8,7 @@ profile:
   align: right
   image: pn.png
   image_circular: true # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
+  # address: 
     <p>Shiraz, Iran</p>
 
 news: true  # includes a list of news items
@@ -40,6 +38,11 @@ Computational Mechanics, Soft-Robotic, Fluid-structure interaction, Dynamics, an
 - surgical robot system dynamics analysis
 
 - Design and prototype an electromagnetic gearbox and actuator
+
+## Teaching and Work Experience
+- German Lecturer 
+- Robotic Lecturer
+- DevOps
 
 
 ## Skills
