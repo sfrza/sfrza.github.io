@@ -44,7 +44,6 @@ Computational Mechanics, Soft-Robotic, Fluid-structure interaction, Dynamics, an
 - Robotic Lecturer
 - DevOps
 
-
 ## Skills
 - Programming: Python, Matlab, Fortran, C, C++
 - Subroutine: UMAT, UEL, Dload
