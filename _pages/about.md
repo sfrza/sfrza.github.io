@@ -33,10 +33,11 @@ Computational Mechanics, Soft-Robotic, Fluid-structure interaction, Dynamics, an
 - Dynamic behavior analysis of laminated Composite reinforced by curvilinear fibers under moving mass based on HSDT
 - Dynamic behavior analysis of isotropic circular plate under harmonic load based on FSDT, using FEM
 - Natural frequency analysis of rectangular plate based on CPT theory using DQM
-Sensitivity analysis of Beam using the complex variable method
+- Sensitivity analysis of Beam using the complex variable method
 
 - Intelligent power plant monitoring system-Develop and prototype a multi-sensor data acquisition system 
-- surgical robot system dynamics analysis}
+
+- surgical robot system dynamics analysis
 
 - Design and prototype an electromagnetic gearbox and actuator
 
@@ -44,9 +45,9 @@ Sensitivity analysis of Beam using the complex variable method
 ## Skills
 - Programming: Python, Matlab, Fortran, C, C++
 - Subroutine: UMAT, UEL, Dload
-- Tools: olidworks, AutoCAD, Abaqus, GIT, Comsol, Ansys, Proteus, Simulink
-- Platforms: Linux, AVR, PLC
-- Soft Skills: Critical thinking, Systematic thinking
+- Tools: Solidworks, AutoCAD, Abaqus, GIT, Comsol, Ansys, Proteus, Simulink, SimScape, ADAMS, SAM
+- Platforms: Linux, PLC, Arduino, AVR, LATEX
+- Soft Skills: Critical thinking, Systematic thinking, Project managment, Problem Solving 
 - Language: English(Professional), German(Professional), Japanese(Limited Working), Spanish(Elementary),French(Elementary), Dutch(Elementary), Farsi (Native)
 
 
