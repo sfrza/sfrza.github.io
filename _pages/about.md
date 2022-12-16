@@ -9,7 +9,7 @@ profile:
   image: pn.png
   image_circular: true # crops the image to make it circular
   # address: 
-    <p>Shiraz, Iran</p>
+    # <p>Shiraz, Iran</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -39,10 +39,10 @@ Computational Mechanics, Soft-Robotic, Fluid-structure interaction, Dynamics, an
 
 - Design and prototype an electromagnetic gearbox and actuator
 
-## Teaching and Work Experience
-- German Lecturer 
-- Robotic Lecturer
-- DevOps
+<!-- ## Teaching and Work Experience -->
+<!-- - German Lecturer  -->
+<!-- - Robotic Lecturer -->
+<!-- - DevOps -->
 
 ## Skills
 - Programming: Python, Matlab, Fortran, C, C++
