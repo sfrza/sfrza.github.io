@@ -39,7 +39,7 @@ Computational Mechanics, Soft-Robotic, Fluid-structure interaction, Dynamics, an
 
 - Design and prototype an electromagnetic gearbox and actuator
 
-## Teaching and Work Experience -->
+## Work Experience 
  - German Lecturer  
  - Robotic Lecturer 
  - DevOps 
