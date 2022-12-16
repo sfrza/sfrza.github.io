@@ -23,8 +23,8 @@ Computational Mechanics, Soft-Robotic, Fluid-structure interaction, Dynamics, an
 
 
 ## Education
-- M.S. in Mechanical engineering -  [Persian Gulf University](https://pgu.ac.ir/en)
-- B.S. in Mechatronics engineering - [Shahrood University of Technology](https://shahroodut.ac.ir/en/)
+- M.S. in Mechanical engineering |  [Persian Gulf University](https://pgu.ac.ir/en)
+- B.S. in Mechatronics engineering | [Shahrood University of Technology](https://shahroodut.ac.ir/en/)
 
 ## Research Experience
 
