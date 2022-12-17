@@ -71,7 +71,7 @@ github_username: sfrza # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: # your LinkedIn user name
+linkedin_username: sfrza # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
@@ -153,18 +153,18 @@ external_sources:
 # Collections
 # -----------------------------------------------------------------------------
 
-# collections:
-#   news:
-#     defaults:
-#       layout: post
-#     output: true
-#     permalink: /news/:path/
-#   projects:
-#     output: true
-#     permalink: /projects/:path/
+collections:
+  news:
+    defaults:
+      layout: post
+    output: true
+    permalink: /news/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
 
-# news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-# news_limit: 5 # leave blank to include all the news in the `_news` folder
+news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+news_limit: 5 # leave blank to include all the news in the `_news` folder
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
