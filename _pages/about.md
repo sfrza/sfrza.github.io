@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-A multidisciplinary Researcher, polyglot, Mechanic Engineer with a passion for coding :sparkles: :smile:, Computational scientist, FEA Engineer, Amateur musician, Additive Manufacturing specialist
+A multidisciplinary Researcher, polyglot, Mechanic Engineer with a passion for coding :smile:, Computational scientist, FEA Engineer, Amateur musician, Additive Manufacturing specialist
 
 ## Interests
 Computational Mechanics, Soft-Robotic, Fluid-structure interaction, Dynamics, and Vibrations
